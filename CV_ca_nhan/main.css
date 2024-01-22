@@ -1,0 +1,16 @@
+.anh img {
+    border-radius: 50px;
+    border: 2px solid;
+}
+.CV {
+    display: flex;
+    justify-content: center;
+}
+body {
+    font-family: Arial sans-serif;
+    margin: 100px;
+    padding: 100px;
+}
+.ten {
+    color: brown;
+}
