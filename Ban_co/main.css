@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tr {background: white;
+}
+.d {background: black;
+}
+.tb {
+    background: darkgoldenrod;
+    width: 30%;
+
+}
+.tb table{
+    width: 100%;
+}
