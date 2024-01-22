@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb13de81-8a7b-491c-b0cf-ffb12826060b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WebstormProjects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DK_nguoi_dung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DK_nguoi_dung/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git_HTML" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/form_so_thich_cua_ban/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/form_so_thich_cua_ban/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form_so_thich_cua_ban/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/form_so_thich_cua_ban/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ĐK_hoc_vien/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ĐK_hoc_vien/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ĐK_hoc_vien/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/ĐK_hoc_vien/main.css" afterDir="false" />
-    </list>
+    <list default="true" id="eb13de81-8a7b-491c-b0cf-ffb12826060b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +63,7 @@
       <workItem from="1705916406710" duration="330000" />
       <workItem from="1705916756621" duration="494000" />
       <workItem from="1705917269447" duration="800000" />
+      <workItem from="1705918827586" duration="301000" />
     </task>
     <servers />
   </component>
