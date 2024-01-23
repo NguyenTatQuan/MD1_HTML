@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb13de81-8a7b-491c-b0cf-ffb12826060b" name="Changes" comment="" />
+    <list default="true" id="eb13de81-8a7b-491c-b0cf-ffb12826060b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BT_TKB_table/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT_TKB_table/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD1_JS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD1_JS/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ban_co/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ban_co/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ban_co/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ban_co/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DK_nguoi_dung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DK_nguoi_dung/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -64,7 +74,13 @@
       <workItem from="1705916756621" duration="494000" />
       <workItem from="1705917269447" duration="800000" />
       <workItem from="1705918827586" duration="525000" />
-      <workItem from="1705930854895" duration="7261000" />
+      <workItem from="1705930854895" duration="8865000" />
+      <workItem from="1705973401735" duration="131000" />
+      <workItem from="1705973726343" duration="132000" />
+      <workItem from="1705973957304" duration="8788000" />
+      <workItem from="1706001897350" duration="130000" />
+      <workItem from="1706002066453" duration="32000" />
+      <workItem from="1706002304666" duration="207000" />
     </task>
     <servers />
   </component>
