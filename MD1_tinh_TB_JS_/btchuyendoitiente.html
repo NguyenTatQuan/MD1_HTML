@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="number" id="num1" placeholder="nhập số thứ nhất">
+<input type="number" id="num2" placeholder="nhập số thứ hai">
+<br>
+<button onmouseout="Add()">Cộng(+)</button>
+<button onclick="Sub()">Trừ(-)</button>
+<button onmouseout="Mul()">nhân(*)</button>
+<button onclick="Div()">chia(/)</button>
+<h2>Ket Qua</h2>
+<div id="KetQua"> Đây là kết quả</div>
+</body>
+</html>
+<script>
+    function Add() {
+        let number1 = document.getElementById("num1").value; //"1"
+        let number2 = document.getElementById("num2").value; //"2"
+        let KetQua = Number(number1) + Number(number2); //3
+        document.getElementById("KetQua").innerHTML = KetQua;
+    }
+    function Sub() {
+        let number1 = document.getElementById("num1").value; //"1"
+        let number2 = document.getElementById("num2").value; //"2"
+        let KetQua = Number(number1) - Number(number2); //3
+        document.getElementById("KetQua").innerHTML = KetQua;}
+     function Mul() {
+        let number1 = document.getElementById("num1").value; //"1"
+        let number2 = document.getElementById("num2").value; //"2"
+        let KetQua = Number(number1) * Number(number2); //2
+        document.getElementById("KetQua").innerHTML = KetQua;
+    }
+    function Div() {
+        let number1 = document.getElementById("num1").value; //"1"
+        let number2 = document.getElementById("num2").value; //"2"
+        let KetQua = Number(number1) / Number(number2); //0,5
+        document.getElementById("KetQua").innerHTML = KetQua;
+    }
+
+</script>

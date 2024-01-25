@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb13de81-8a7b-491c-b0cf-ffb12826060b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BT_TKB_table/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BT_TKB_table/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD1_JS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD1_JS/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD1_tinh_TB_JS_/btchuyendoitiente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD1_tinh_TB_JS_/chivihinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD1_tinh_TB_JS_/dientichhinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD1_tinh_TB_JS_/tinhtong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD1_tinh_TB_JS_/udmaytinh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ban_co/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ban_co/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ban_co/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ban_co/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DK_nguoi_dung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DK_nguoi_dung/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD1_JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD1_JS/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -81,6 +82,13 @@
       <workItem from="1706001897350" duration="130000" />
       <workItem from="1706002066453" duration="32000" />
       <workItem from="1706002304666" duration="207000" />
+      <workItem from="1706017987953" duration="989000" />
+      <workItem from="1706065532882" duration="10400000" />
+      <workItem from="1706103953685" duration="2784000" />
+      <workItem from="1706145582394" duration="3239000" />
+      <workItem from="1706151121656" duration="105000" />
+      <workItem from="1706151272568" duration="359000" />
+      <workItem from="1706151653208" duration="2096000" />
     </task>
     <servers />
   </component>
